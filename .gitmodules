@@ -1,0 +1,6 @@
+[submodule "ems-db"]
+	path = ems-db
+	url = git@github.com:AndrewIsh/ems-db.git
+[submodule "ems-api"]
+	path = ems-api
+	url = git@github.com:AndrewIsh/ems-api
